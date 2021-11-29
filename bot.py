@@ -7,7 +7,7 @@ from discord.ext import commands, tasks
 from itertools import cycle
 
 client = commands.Bot(command_prefix = '!')
-status = cycle(['santy gay', 'santy cool'])
+status = cycle(['Status 1', 'Status 2'])
 
 # Check activity
 @client.event
