@@ -7,6 +7,7 @@ from discord.ext import commands
 from log import *
 
 # Games ID:
+
 # Youtube Together - 755600276941176913
 # Betrayal.io - 773336526917861400
 # Fishington.io - 814288819477020702
